@@ -1,0 +1,1 @@
+This folder will contain the final schematic and board layout for the Door Lock project
