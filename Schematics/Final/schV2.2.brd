@@ -160,6 +160,8 @@
 <wire x1="110.625" y1="31.125" x2="110.75" y2="89.75" width="0" layer="20"/>
 <wire x1="110.75" y1="89.75" x2="15.375" y2="89.75" width="0" layer="20"/>
 <wire x1="15.375" y1="89.75" x2="15.375" y2="31.125" width="0" layer="20"/>
+<dimension x1="15.375" y1="89.75" x2="110.75" y2="89.75" x3="63.0625" y3="93.125" textsize="1.778" layer="47"/>
+<dimension x1="15.375" y1="89.75" x2="15.375" y2="31.125" x3="11.75" y3="60.4375" textsize="1.778" layer="47"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
